@@ -1,0 +1,47 @@
+.pera{
+    font-size:16px;
+    
+}
+.navbg{
+    color:#37517e !important;
+
+}
+.blue{
+   color:#37517e !important;
+}
+.h4{
+    font-size:12px;
+}
+.fs{
+    font-size: 32px;
+font-weight: bold;
+}
+.a25px{
+           font-size: 19px;
+}
+.callToAction{
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(cta-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    width: 100%;
+    height:300px;
+    background-attachment: fixed;
+   
+
+}
+.guegdgke{
+    background-color:#37517e6a !important;
+
+    height: 300px;
+}
+.blues{
+     color: #47b2e4;
+}
+.lightt{
+    color:rgba(198, 189, 189, 0.977);
+}
+.lightblack i{
+    color:rgba(79, 76, 76, 0.906);
+    
+}
